@@ -1,0 +1,129 @@
+{
+  "build": "py38h295c915_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=7.5.0",
+    "libstdcxx-ng >=7.5.0",
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "/home/viraj/python/anaconda3/pkgs/sip-4.19.13-py38h295c915_0",
+  "features": "",
+  "files": [
+    "bin/sip",
+    "include/python3.8/sip.h",
+    "lib/python3.8/site-packages/__pycache__/sipconfig.cpython-38.pyc",
+    "lib/python3.8/site-packages/__pycache__/sipdistutils.cpython-38.pyc",
+    "lib/python3.8/site-packages/sip-4.19.13.dist-info/INSTALLER",
+    "lib/python3.8/site-packages/sip-4.19.13.dist-info/METADATA",
+    "lib/python3.8/site-packages/sip-4.19.13.dist-info/RECORD",
+    "lib/python3.8/site-packages/sip.pyi",
+    "lib/python3.8/site-packages/sip.so",
+    "lib/python3.8/site-packages/sipconfig.py",
+    "lib/python3.8/site-packages/sipdistutils.py"
+  ],
+  "fn": "sip-4.19.13-py38h295c915_0.conda",
+  "legacy_bz2_md5": "ddc650a2539e21bbb5687f48efd0ca98",
+  "legacy_bz2_size": 302714,
+  "license": "GPL-3.0",
+  "link": {
+    "source": "/home/viraj/python/anaconda3/pkgs/sip-4.19.13-py38h295c915_0",
+    "type": 1
+  },
+  "md5": "2046e66b7d12f7c0cda5687e4c27b692",
+  "name": "sip",
+  "package_tarball_full_path": "/home/viraj/python/anaconda3/pkgs/sip-4.19.13-py38h295c915_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/sip",
+        "path_type": "hardlink",
+        "sha256": "8ba738c6d36bad8667d2a45fb415ad43bbca1ff8123cb51d4adb0294b916d1f9",
+        "sha256_in_prefix": "8ba738c6d36bad8667d2a45fb415ad43bbca1ff8123cb51d4adb0294b916d1f9",
+        "size_in_bytes": 432536
+      },
+      {
+        "_path": "include/python3.8/sip.h",
+        "path_type": "hardlink",
+        "sha256": "c3c3b0eaa40add10b29297a755355ff1371f8e47aa65b0a7a92e4acc7af34da5",
+        "sha256_in_prefix": "c3c3b0eaa40add10b29297a755355ff1371f8e47aa65b0a7a92e4acc7af34da5",
+        "size_in_bytes": 67001
+      },
+      {
+        "_path": "lib/python3.8/site-packages/__pycache__/sipconfig.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "a0302f3a9e2bc37ac53fb5ec71d7f398035bd8951202ba760a40d3c2a47cc942",
+        "sha256_in_prefix": "a0302f3a9e2bc37ac53fb5ec71d7f398035bd8951202ba760a40d3c2a47cc942",
+        "size_in_bytes": 61089
+      },
+      {
+        "_path": "lib/python3.8/site-packages/__pycache__/sipdistutils.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "b346f3f97e78678afe5ebe3527464a6e815917d2310129d78fd809d27157576e",
+        "sha256_in_prefix": "b346f3f97e78678afe5ebe3527464a6e815917d2310129d78fd809d27157576e",
+        "size_in_bytes": 5143
+      },
+      {
+        "_path": "lib/python3.8/site-packages/sip-4.19.13.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.8/site-packages/sip-4.19.13.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "1b113d409f57cb87a21e853b7c128bb59387e6c2ad0c260d41ffb55019fd6dcc",
+        "sha256_in_prefix": "1b113d409f57cb87a21e853b7c128bb59387e6c2ad0c260d41ffb55019fd6dcc",
+        "size_in_bytes": 49
+      },
+      {
+        "_path": "lib/python3.8/site-packages/sip-4.19.13.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "87ace17d3c6a44ec81921877e9d1992a7fb8cd9872df69b5b36ae12b7035cbfe",
+        "sha256_in_prefix": "87ace17d3c6a44ec81921877e9d1992a7fb8cd9872df69b5b36ae12b7035cbfe",
+        "size_in_bytes": 637
+      },
+      {
+        "_path": "lib/python3.8/site-packages/sip.pyi",
+        "path_type": "hardlink",
+        "sha256": "61bfca5a13eeb20c7f282bdf9d399fa921509b6e23d7f1169ea13c9090d1de35",
+        "sha256_in_prefix": "61bfca5a13eeb20c7f282bdf9d399fa921509b6e23d7f1169ea13c9090d1de35",
+        "size_in_bytes": 2801
+      },
+      {
+        "_path": "lib/python3.8/site-packages/sip.so",
+        "path_type": "hardlink",
+        "sha256": "86c9922c62de923062ca2382f26435c586c5976c10f9aa6063b2e92ff41e253f",
+        "sha256_in_prefix": "86c9922c62de923062ca2382f26435c586c5976c10f9aa6063b2e92ff41e253f",
+        "size_in_bytes": 144600
+      },
+      {
+        "_path": "lib/python3.8/site-packages/sipconfig.py",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/builder/ci_310/sip_1643114635778/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "1a4d0d4c1bf6aa8330d434483b5d24019192bf7e95deb70b85dcdd0a1831fe82",
+        "sha256_in_prefix": "f763effa0f8620826ecbe3d3b2a46e74f19f1dad70ea61fc0b27fcc96193d286",
+        "size_in_bytes": 99323
+      },
+      {
+        "_path": "lib/python3.8/site-packages/sipdistutils.py",
+        "path_type": "hardlink",
+        "sha256": "24e71a82ecf970aee1d609bbb7eab88fe5eb91ef589276f5dfb6dd388297fd79",
+        "sha256_in_prefix": "24e71a82ecf970aee1d609bbb7eab88fe5eb91ef589276f5dfb6dd388297fd79",
+        "size_in_bytes": 6041
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "5d5a0cbf127295a717ef24b3bcecff6c1485909fa7c72afc66e27885c4ab878e",
+  "size": 285265,
+  "subdir": "linux-64",
+  "timestamp": 1643114697081,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/sip-4.19.13-py38h295c915_0.conda",
+  "version": "4.19.13"
+}

@@ -1,0 +1,14 @@
+prefix=/home/viraj/python/Python/Machine-learning/mlpro_one
+exec_prefix=/home/viraj/python/Python/Machine-learning/mlpro_one
+libdir=/home/viraj/python/Python/Machine-learning/mlpro_one/lib
+includedir=/home/viraj/python/Python/Machine-learning/mlpro_one/include
+
+Name: FreeType 2
+URL: https://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 24.3.18
+Requires: 
+Requires.private: zlib, libpng
+Libs: -L/home/viraj/python/Python/Machine-learning/mlpro_one/lib -lfreetype
+Libs.private: 
+Cflags: -I${includedir}/freetype2

@@ -1,0 +1,39 @@
+{
+  "build": "py38h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "matplotlib-base >=3.7.0,<3.7.1.0a0",
+    "pyqt >=5",
+    "python >=3.8,<3.9.0a0",
+    "tornado >=5"
+  ],
+  "extracted_package_dir": "/home/viraj/python/anaconda3/pkgs/matplotlib-3.7.0-py38h06a4308_0",
+  "features": "",
+  "files": [],
+  "fn": "matplotlib-3.7.0-py38h06a4308_0.conda",
+  "legacy_bz2_md5": "ba3ce2de5cf60e1a18054908a069cf73",
+  "legacy_bz2_size": 7796,
+  "license": "LicenseRef-PSF-based",
+  "license_family": "PSF",
+  "link": {
+    "source": "/home/viraj/python/anaconda3/pkgs/matplotlib-3.7.0-py38h06a4308_0",
+    "type": 1
+  },
+  "md5": "8127b871e346f00ce29cba7172cc75c2",
+  "name": "matplotlib",
+  "package_tarball_full_path": "/home/viraj/python/anaconda3/pkgs/matplotlib-3.7.0-py38h06a4308_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "matplotlib",
+  "sha256": "4de5face1b890b66d4e953958fc94a6561751e855ca6a92db0cef4447d273d8c",
+  "size": 8162,
+  "subdir": "linux-64",
+  "timestamp": 1677674622632,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/matplotlib-3.7.0-py38h06a4308_0.conda",
+  "version": "3.7.0"
+}

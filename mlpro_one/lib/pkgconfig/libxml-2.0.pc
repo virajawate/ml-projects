@@ -1,0 +1,13 @@
+prefix=/home/viraj/python/Python/Machine-learning/mlpro_one
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+modules=1
+
+Name: libXML
+Version: 2.9.14
+Description: libXML library version2.
+Requires:
+Libs: -L${libdir} -lxml2
+Libs.private: -L/home/viraj/python/Python/Machine-learning/mlpro_one/lib -licui18n -licuuc -licudata -lpthread -L/home/viraj/python/Python/Machine-learning/mlpro_one/lib -lz -L/home/viraj/python/Python/Machine-learning/mlpro_one/lib -llzma -L/home/viraj/python/Python/Machine-learning/mlpro_one/lib -lm  
+Cflags: -I${includedir}/libxml2 -I/home/viraj/python/Python/Machine-learning/mlpro_one/include 
